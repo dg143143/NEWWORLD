@@ -1,0 +1,6 @@
+username,password,isAdmin,status,joined
+DG143,$2b$10$YstlJH63eqJ6RmZo5NxxC.e9oBKfCyVW/8cJmYX/dENqvrPx7NE1G,true,approved,2025-08-22 12:00:00
+john_doe,$2b$10$hashedpassword123example1234567890abcdefghijklmnop,false,pending,2025-08-22 13:30:00
+jane_smith,$2b$10$hashedpassword456example1234567890abcdefghijklmnop,false,approved,2025-08-22 14:15:00
+mike_wilson,$2b$10$hashedpassword789example1234567890abcdefghijklmnop,false,revoked,2025-08-22 09:45:00
+sarah_jones,$2b$10$hashedpasswordabcexample1234567890abcdefghijklmnop,false,rejected,2025-08-22 16:20:00
